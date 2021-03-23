@@ -10,6 +10,7 @@ namespace ConsoleApp2azure
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("azure");
         }
     }
 }
